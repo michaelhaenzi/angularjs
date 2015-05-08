@@ -3,7 +3,7 @@ AngularJS
 
 ###Einleitung
 
-Ich habe AngularJS mit der Webseite [Codecademy](www.codecademy.com) gelernt. *"Codecademy versteht sich als einfache, kurzweilige und interaktive Möglichkeit, Programmieren zu lernen. Die Website ist seit kurzem live und ist im Kern ein interaktives Programmier-Tutorial."*
+Ich habe AngularJS mit der Webseite [Codecademy](http://www.codecademy.com) gelernt. *"Codecademy versteht sich als einfache, kurzweilige und interaktive Möglichkeit, Programmieren zu lernen. Die Website ist seit kurzem live und ist im Kern ein interaktives Programmier-Tutorial."*
 
 
 ###Was ist AngularJS?
