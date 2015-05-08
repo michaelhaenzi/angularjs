@@ -51,7 +51,7 @@ Filter sind Formate oder Definitionen, welche man angeben kann, um z.B. Währung
 ```
 ###Die Verallgemeinerung
 
-![Generallisierung Bild](../generallisiert.png)
+![Generallisierung Bild](https://github.com/michaelhaenzi/angularjs/blob/master/generallisiert.PNG)
 *Bild von Codecademy*
 
 1. User besucht die AngularJS Applikation.
