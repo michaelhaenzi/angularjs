@@ -2,13 +2,34 @@ AngularJS
 =========
 
 ###Einleitung
-
-Ich habe AngularJS mit der Webseite [Codecademy](http://www.codecademy.com) gelernt. *"Codecademy versteht sich als einfache, kurzweilige und interaktive Möglichkeit, Programmieren zu lernen. Die Website ist seit kurzem live und ist im Kern ein interaktives Programmier-Tutorial."*
-
+AngularJS habe ich mithilfe von folgenden Quellen erarbeitet und studiert:
+* [AngularJS.de](https://angularjs.de/buch)
+* [Codecademy.com](http://www.codecademy.com/)
 
 ###Was ist AngularJS?
+AngularJS ist in wenigen Strichpunkten zusammengefasst:
+* Ein JavaScript-Framework für dynamische Webapplikationen
+* Für die Entwicklung von Single-Page-Apps gedacht
+* Entwicklung von Google und dort Produktiveinsatz
+* Ein Open-Source-Projekt
+* Auf gute Testbarkeit ausgelegt
+* Test
 
-Angular JS ist ein JavaScript Clientseitiges basiertes Framework. Es wird von Google entwickelt und gratis zur verfügung gestellt. Angular JS ist geeignet für Single-Page-Applikationen. Das bedeutet, dass die meisten Daten beim aufrufen der Webseite geladen werden. Bei einer Änderung des Linkes (URL) wird nicht die ganze Seite aktualisiert, sondern nur die benötigten Daten werden per Ajax nachgeladen.
+###Vorteile von AngularJS
+**Code-Reduktion**
+AnuglarJS macht einen Grossteil des Codes,. den man normalerweise schreibt, überflüssig. Der Quellcode ist viel kleiner als z.B. bei jQuery.
+
+**Testbarkeit und Restrukturierung**
+AngularJS benutzt Dependecy Injection durch und durch. Dependecy Injection sorgt für eine sehr gute Testbarkeit, Code-Redution und Restrukturierung.
+
+**Wiederverwendbare Komponenten und Lesbarkeit**
+AngularJS kann das HTML-Vokabular über Direktiven erweitern. Die Verwendung von Direktiven bringt folgende Vorteile:
+* Die Lesbarkeit wird deutlich gesteigert durch logische Bennenung und Weglassen von Elementen.
+* Automatisches Entstehen von Komponenten, die sich sehr gut testen und wiederverwnden lassen. (DOM-Testen ist einfach mit AngularJS)
+
+**Verwendung der Datentypen von JavaScript**
+Der Einstieg geht in AngularJS sehr schnell, da die normalen Datentypen von JavaScript verwendet werden. Dadurch lassen sich fremde Bibliotheken einfach einbinden.
+
 
 ###Der Anfang von einer AngularJS Applikation
 
