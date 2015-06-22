@@ -28,3 +28,14 @@ AngularJS kann das HTML-Vokabular über Direktiven erweitern. Die Verwendung von
 
 **Verwendung der Datentypen von JavaScript**
 Der Einstieg geht in AngularJS sehr schnell, da die normalen Datentypen von JavaScript verwendet werden. Dadurch lassen sich fremde Bibliotheken einfach einbinden.
+
+###Databinding - einfach und bidirektional
+In der einfachen JavaScript-Programmierung werden Änderungen direkt im DOM vom Event-Handler ausgeführt.([Mehr zu JavaScript](https://github.com/michaelhaenzi/javascript))
+Bei bidirektionalem ändert man nur das Model. Änderungen vom Model werden vom Framework in den DOM übertragen:
+* Sorgt für klare Trennung
+* Sorgt für verständlichem Code
+
+  *In der Betriebsart bidirektional können bei der Datenübertragung Signale in beiden Richtungen fließen. Zwischen Sender und Empfänger gibt es zwei Kanäle: einen Hin- und einen Rückkanal. Jeder Teilnehmer einer bidirektionalen Verbindung kann somit Sender oder Empfänger sein.*
+  [Quelle](http://www.itwissen.info/definition/lexikon/Bidirektional-bidirectional.html)
+
+![Databinding](databinding.png)
