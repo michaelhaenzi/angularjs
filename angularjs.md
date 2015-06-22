@@ -9,13 +9,8 @@ AngularJS habe ich mithilfe von folgenden Quellen erarbeitet und studiert:
 ###Inhalsverzeinis
 * [Was ist AngularJS](#FirstParagraph)
 * [Vorteile von AngularJS](#SecondParagraph)
-* [Databinding](#ThridParagraph)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Databinding](#ThirdParagraph)
+* [AngularJS Komponenten](#FourthParagraph)
 
 <a name="FirstParagraph"></a>
 ###Was ist AngularJS?
@@ -60,4 +55,16 @@ Bei bidirektionalem ändert man nur das Model. Änderungen vom Model werden vom 
 
 **Einfaches Databinding (One-Way)**
 
-Einfache Databinding wird den meisten Entwicklern
+Einfache Databinding wird den meisten Entwicklern vertraut sein. Es gibt ein Model, welches die Daten bereitstellt und ein Template, welches das Aussehen liefert. Diese werden verschmolzen und als View an den Benutzer geschickt.
+
+Änderung am Model und im View (z.B. eine Eingabe im Inputfeld) werden nicht automatisch aktualisiert. Der Entwickler muss deshalb sich selber um die Synchronisation von View und Model kümmern.
+
+**Bidirektionales Databinding (Two-Way)**
+
+Beim bidirektionalen wird eine Verknüpfung zwischen Elementen im View und Datenstrukturen im Model hergestellt.
+Der Vorteil dürfte offensichtlich sein. Die manuelle Synchronisation fällt weg und damit auch eine Menge Arbeit und fehleranfälliger Code.
+
+<a name="FourthParagraph"></a>
+###Überblick der wichtigsten Komponenten
+
+![Komponenten](https://github.com/michaelhaenzi/angularjs/blob/master/components.PNG)
